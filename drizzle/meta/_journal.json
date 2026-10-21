@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1781800993122,
+      "tag": "0000_eager_arclight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1781801108017,
+      "tag": "0001_create_quotes",
+      "breakpoints": true
+    }
+  ]
+}
